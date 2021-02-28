@@ -7,7 +7,7 @@ import { Grid,
          IconButton, 
          Paper} from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
-import React, { useContext } from 'react';
+import React from 'react';
 import 'fontsource-roboto';
 import clsx from 'clsx';
 import Visibility from '@material-ui/icons/Visibility';
