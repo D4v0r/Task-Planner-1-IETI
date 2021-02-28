@@ -1,3 +1,10 @@
+# Task Planner
+
+User: test
+
+password: test123
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://task-planner-eci.herokuapp.com/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
